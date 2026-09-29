@@ -117,14 +117,14 @@ header {
   font-weight: 600;
   cursor: pointer;
   border-radius: 4px;
-  box-shadow: 2px 2px 0px #222;
+  box-shadow: 2px 2px 0 #222;
 }
 
 .remove-btn:hover {
   background-color: #dc3545;
   color: #fff;
   border-color: #dc3545;
-  box-shadow: 2px 2px 0px #842029;
+  box-shadow: 2px 2px 0 #842029;
 }
 
 form {
@@ -152,14 +152,14 @@ form button {
   font-weight: 600;
   cursor: pointer;
   border-radius: 4px;
-  box-shadow: 2px 2px 0px #222;
+  box-shadow: 2px 2px 0 #222;
 }
 
 form button:hover {
   background-color: #0d6efd;
   color: #fff;
   border-color: #0d6efd;
-  box-shadow: 2px 2px 0px #0a58ca;
+  box-shadow: 2px 2px 0 #0a58ca;
 }
 
 #contact-section p,
